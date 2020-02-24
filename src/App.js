@@ -5,7 +5,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        Maikl
+        MAIKL CAMP<br/>
+        <i style={{ fontSize: 12 }}>under construction..</i>
       </header>
     </div>
   );
